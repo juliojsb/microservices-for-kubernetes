@@ -119,6 +119,7 @@ The `.github/workflows` folder contains the *main.yaml* configuration file the i
 
 *Important note: Remember to create/add the relevant secrets (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, EKS_CLUSTER, EKS_REGION) for your GitHub Actions deployment process.*
 
+
 ```
 .
 `-- workflows
