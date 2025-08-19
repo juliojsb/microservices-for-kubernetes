@@ -126,4 +126,3 @@ The `.github/workflows` folder contains the *main.yaml* configuration file the i
     `-- main.yaml
 ```
 
-Change
